@@ -1,8 +1,5 @@
 
   # Hello animation
-
-   undefined
-
   ## Table of Content
   
   - [description](#description)
